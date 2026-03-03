@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "リビング・イン・カラー (東京ディズニーリゾート40周年“ドリームゴーラウンド”テーマソング)",
+  "base_artist": "Tokyo Disney Resort",
+  "createdAt": "2026-03-03T12:09:51.728814Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リビング・イン・カラー (東京ディズニーリゾート40周年“ドリームゴーラウンド”テーマソング)",
+      "artist": "東京ディズニーリゾート",
+      "has_synced": false,
+      "path": "select/pl_01_リビング・イン・カラー_(東京ディズニーリゾート40周年“ドリームゴーラウンド”テーマソング)_東京ディズニーリゾート.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "リビング・イン・カラー (東京ディズニーリゾート40周年“ドリームゴーラウンド”テーマソング)",
+      "artist": "東京ディズニーリゾート",
+      "has_synced": false,
+      "path": "select/pl_02_リビング・イン・カラー_(東京ディズニーリゾート40周年“ドリームゴーラウンド”テーマソング)_東京ディズニーリゾート.txt"
+    }
+  ]
+}
